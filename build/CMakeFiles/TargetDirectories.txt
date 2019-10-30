@@ -1,4 +1,0 @@
-/home/rayene/Desktop/ESPL/git-tutorial/build/CMakeFiles/rebuild_cache.dir
-/home/rayene/Desktop/ESPL/git-tutorial/build/CMakeFiles/edit_cache.dir
-/home/rayene/Desktop/ESPL/git-tutorial/build/CMakeFiles/STATES_LIB.dir
-/home/rayene/Desktop/ESPL/git-tutorial/build/CMakeFiles/state_machine.dir
